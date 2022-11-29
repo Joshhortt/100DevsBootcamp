@@ -12,3 +12,16 @@ brownies.html contains the code that was edited with basic html.
 _Resource_ [Shayhowe](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
 
 As web designers and front-end developers, we have the luxury of attending a number of great conferences dedicated to our craft. We’re going to make up our own conference, Styles Conference, and build a website for it throughout the following lessons. 
+
+### Files
+index.html contains the code that the tutorial shows us.
+
+# Homework 3
+
+## In Practice 'All about rabbits!'
+
+_Resource_ [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/pt/html-basics)
+
+A simple html-basics web page
+### Files
+index.html contains the code that the tutorial shows us.
