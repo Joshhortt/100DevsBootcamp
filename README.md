@@ -1,14 +1,11 @@
-
 <a name="readme-top"></a>
 
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+[![Twitter][twitter-shield]][twitter-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -33,8 +30,6 @@
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -54,8 +49,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project '100 Devs Bootcamp'
 
@@ -66,7 +59,6 @@ This fully free 30 week software engineering bootcamp started in January, but yo
 Most people who participated last cohort did not have a degree and had never coded before joining the bootcamp. By the end of program, they worked with real paid clients, contributed to open source software, voluntered with wonderful charities, built their own fullstack javascript projects, and ultimately landed jobs at companies like Amazon, Twitter, Chownow, other amazing startups, and dozens of companies across the globe.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- MAIN TECHNOLOGIES USED IN THE 30 WEEK BOOTCAMP -->
 ### Technologies Used
@@ -85,8 +77,6 @@ Most people who participated last cohort did not have a degree and had never cod
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -94,14 +84,19 @@ Most people who participated last cohort did not have a degree and had never cod
 
 It's a online, free, 30 week bootcamp, meant to bring anybody from zero programming skills to employable Software Engineur, taught by [Leon Noel](https://leonnoel.com/) who also is the Managing Director of Engineering for [Resilient Coders](http://resilientcoders.org/) and is also a [Distinguished Faculty Member at General Assembly](https://generalassemb.ly/instructors/leon-noel/2051) were he teached how to code for the past 9 years.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### 2. When and where are classes hosted?
 
 Tuesdays & Thursdays, 6:30PM - 9:30PM Eastern Time. They are hosted live on Twitch
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### 3. When are office hours?
 
 Sunday, 1:00PM Eastern Time. Office hours will normally go for 2-3 hours and are hosted live on [Twitch](https://www.twitch.tv/learnwithleon).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### 4. How does the program work for a newcomer?
 
@@ -119,9 +114,13 @@ You will be a part of Hamilton House, one of three ‘houses’ in this bootcamp
 
 Please tune in on [Twitch](https://www.twitch.tv/learnwithleon) to watch the lectures live. Any missed lectures can also be viewed on Twitch, or on [Youtube](https://youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S).
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### 5. What will we learnt?
 
 All the fundamental skills you need to unlock a career as a software engineer. Also, the practical skills you need to learn HTML, CSS, Javascript, React, Node, Express, MongoDB, and Computer Science like Algorithms & Data Structures theory.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### 6. What will be expected from you?
 
@@ -133,9 +132,13 @@ You should expect to spend 10+ hours per week, outside of class, for practice/ho
 
 The biggest factor in your success is you. Work hard, ask for help when you need it, give help to others when you can, and stay positive. Stay healty and do exercise.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### 7. What equipment will you need?
 
 You will need a functional computer, an internet browser, and some form of text editor. For text editors, I will use Visual Studio Code on stream, but Atom, Sublime Text, or any other text editor will do the work. I recommend using a second screen if you can.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### 8. How do you use Discord?
 
@@ -145,11 +148,15 @@ There are a lot of channels in the discord. Please try to post your messages in 
 
 The #100Devs family is big, so you may need to adjust your notification settings. Please see Discord’s guide to notifications for help.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### 9. How do you use Twitch? What are ‘channel points’?
 
 Simply go here at class time to watch the live stream. You can ask questions directly in the Twitch chat.
 
 Channel points are accumulated by watching the stream. They will be visible right below the chat bar. If you click there, you will see things you can redeem with your channel points, including resume reviews, portfolio reviews, mock interviews, and more! You can see Twitch’s official guide to channel points [here](https://help.twitch.tv/s/article/channel-points-guide?language=en_US).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### 10. What are the ‘houses’?
 
@@ -161,16 +168,19 @@ Channel points are accumulated by watching the stream. They will be visible righ
 
 House Hamilton**** has the flexibility to follow along with the bootcamp without the same level of commitment as Turing and Hopper. Hamilton can use their channel points for Turing benefits
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### 11. What happens if you miss a stream, or want to catch up on a the old ones?
 
 They will still be visible on Twitch [here](https://www.twitch.tv/learnwithleon), and they will be up on YouTube within a few days [here](https://youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### 12. Where do you go when you have a question?
 
 Please use the appropriate help channel on Discord. If you have something that can only be answered by Leon, then please use the #ask-Leon channel. You can also check out the #resources channel for helpful links. If you are looking for a specific resource, please ask.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- YOUTUBE ROADMAP -->
 ## Roadmap
@@ -227,12 +237,9 @@ Please use the appropriate help channel on Discord. If you have something that c
 - [Class 49 - 52: Easily Add Authentication To Your Node Apps! Email Logins with Passpor](https://youtu.be/z5UgtXOxEEk)
 - [Class 53 - 55: Let's Build A Social Network with Node, Express, MongoDB, & Cloudinary](https://youtu.be/xsKGlEemTAo)
 
-
 See the [open issues](https://github.com/Joshhortt/100DevsBootcamp/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -251,10 +258,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
@@ -262,8 +266,6 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -273,8 +275,6 @@ José Horta - [@josh_hortt](https://twitter.com/josh_hortt) - joshhortt@yahoo.co
 Project Link: [100 Devs Bootcamp](https://github.com/Joshhortt/100DevsBootcamp)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -295,65 +295,43 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Another #100Devs follow-along Site for the Catchup Crew](https://100devsfollowalong.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[contributors-shield]: https://img.shields.io/github/contributors/Joshhortt/100DevsBootcamp.svg?style=for-the-badge
+[contributors-url]: https://github.com/Joshhortt/100DevsBootcamp/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Joshhortt/100DevsBootcamp.svg?style=for-the-badge
+[forks-url]: https://github.com/Joshhortt/100DevsBootcamp/network/members
+[stars-shield]: https://img.shields.io/github/stars/Joshhortt/100DevsBootcamp.svg?style=for-the-badge
+[stars-url]: https://github.com/Joshhortt/100DevsBootcamp/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Joshhortt/100DevsBootcamp.svg?style=for-the-badge
+[issues-url]: https://github.com/Joshhortt/100DevsBootcamp/issues
+[license-shield]: https://img.shields.io/github/license/Joshhortt/100DevsBootcamp.svg?style=for-the-badge
+[license-url]: https://github.com/Joshhortt/100DevsBootcamp/blob/master/LICENSE.txt
+[twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[twitter-url]: https://twitter.com/https://twitter.com/josh_hortt
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [product-screenshot]: images/screenshot.png
-
 [Markdown]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 [Markdown-url]: https://www.markdownguide.org/
-
 [Html5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [Html-url]: https://html.com/html5/
-
-[Javascript]: 	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[Javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [javascript-url]: https://www.javascript.com/
-
 [Css]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [Css-url]: https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS
-
-[Nodejs]: 	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[Nodejs]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/
-
 [Reactjs]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-
 [Bootstrap]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-
 [Github]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [Github-url]: https://github.com/
-
 [Expressjs]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
-[Express-url]: https://expressjs.com/
-
+[Expressjs-url]: https://expressjs.com/
 [MongoDB]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-[Mongodb]: https://www.mongodb.com
-
+[Mongodb-url]: https://www.mongodb.com
 [Hashnode]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
 [Hashnode-url]: https://hashnode.com/
-
-
-
-
-
-
-
-
-
-
