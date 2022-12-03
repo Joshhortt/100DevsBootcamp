@@ -39,12 +39,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#technologies-used">Technologies Used</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#technologies-used">Technologies Used</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -183,7 +179,7 @@ Please use the appropriate help channel on Discord. If you have something that c
 <!-- YOUTUBE ROADMAP -->
 ## Roadmap
 
-- [FULL PLAYLIST](https://youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S).
+- [FULL PLAYLIST](https://youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S)
 - [Class 01: Become A Software Engineer For Free](https://youtu.be/o3IIobN4xR0)
 - [Class 02: Learn HTML](https://youtu.be/eCRbEILXXmE)
 - [Class 03: Learn More HTML](https://youtu.be/rdWM6kUImjE)
@@ -231,7 +227,7 @@ Please use the appropriate help channel on Discord. If you have something that c
 - [Class 43: Traversy media - Node.js App From Scratch | Express, MongoDB & Google OAuth](https://youtu.be/SBvmnHTQIPY)
 - [Class 44 & 45: How To Build Fullstack Apps With Javascript! Easy To Understand!](https://youtu.be/jZ-kmmgi_d0)
 - [Class 46 & 47: Build A Node.js MVC App! Complete Easy Walkthrough! (class 46/47)](https://youtu.be/SVX_HMum0n4)
-- [Class 48: How To Prepare For #THEHUNT](https://youtu.be/2ObpRuvmT48)
+- [Class 48: How To Prepare For #THE HUNT](https://youtu.be/2ObpRuvmT48)
 - [Class 49 - 52: Easily Add Authentication To Your Node Apps! Email Logins with Passpor](https://youtu.be/z5UgtXOxEEk)
 - [Class 53 - 55: Let's Build A Social Network with Node, Express, MongoDB, & Cloudinary](https://youtu.be/xsKGlEemTAo)
 
