@@ -272,9 +272,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-José Horta - [@josh_hortt](https://twitter.com/josh_hortt) - joshhortt@yahoo.com
+José Horta - [@josh_hortt](https://twitter.com/josh_hortt) 
 
-Project Link: [100 Devs Bootcamp](https://github.com/Joshhortt/100DevsBootcamp)
+100 Devs Bootcamp Link: [100 Devs Bootcamp](https://github.com/Joshhortt/100DevsBootcamp)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
