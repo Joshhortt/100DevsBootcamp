@@ -65,19 +65,19 @@ Most people who participated last cohort did not have a degree and had never cod
 
 
 <!-- MAIN TECHNOLOGIES USED IN THE 30 WEEK BOOTCAMP -->
-### Technologies Used
+## Technologies Used
 
-* [![Markdown][Markdown]][Markdown-url]
-* [![Html5][Html5]][Html-url]
-* [![Css][Css]][Css-url]
-* [![Javascript][Javascript]][Javascript-url]
-* [![React][Reactjs]][React-url]
-* [![Git][Github]][Github-url]
-* [![Bootstrap][Bootstrap]][Bootstrap-url]
-* [![Node][Nodejs]][Node-url]
-* [![Express][Expressjs]][Expressjs-url]
-* [![MongoDB][MongoDB]][Mongodb-url]
-* [![Hashnode][Hashnode]][Hashnode-url]
+[![Markdown][Markdown]][Markdown-url]
+[![Html5][Html5]][Html-url]
+[![Css][Css]][Css-url]
+[![Javascript][Javascript]][Javascript-url]
+[![React][Reactjs]][React-url]
+[![Git][Github]][Github-url]
+[![Bootstrap][Bootstrap]][Bootstrap-url]
+[![Node][Nodejs]][Node-url]
+[![Express][Expressjs]][Expressjs-url]
+[![MongoDB][MongoDB]][Mongodb-url]
+[![Hashnode][Hashnode]][Hashnode-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
