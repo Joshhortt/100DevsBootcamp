@@ -1,6 +1,4 @@
-
 <a name="readme-top"></a>
-
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -8,7 +6,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![Twitter][twitter-shield]][twitter-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -33,8 +30,6 @@
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -50,9 +45,8 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project '100 Devs Bootcamp'
 
 [![Product Name Screen Shot][product-screenshot]](https://leonnoel.com/100devs/)
@@ -63,27 +57,26 @@ Most people who participated last cohort did not have a degree and had never cod
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- MAIN TECHNOLOGIES USED IN THE 30 WEEK BOOTCAMP -->
+
 ## Technologies Used
 
-[![Markdown][Markdown]][Markdown-url]
-[![Html5][Html5]][Html-url]
-[![Css][Css]][Css-url]
-[![Javascript][Javascript]][Javascript-url]
-[![React][Reactjs]][React-url]
-[![Git][Github]][Github-url]
-[![Bootstrap][Bootstrap]][Bootstrap-url]
-[![Node][Nodejs]][Node-url]
-[![Express][Expressjs]][Expressjs-url]
-[![MongoDB][MongoDB]][Mongodb-url]
-[![Hashnode][Hashnode]][Hashnode-url]
+[![Markdown][markdown]][markdown-url]
+[![Html5][html5]][html-url]
+[![Css][css]][css-url]
+[![Javascript][javascript]][javascript-url]
+[![React][reactjs]][react-url]
+[![Git][github]][github-url]
+[![Bootstrap][bootstrap]][bootstrap-url]
+[![Node][nodejs]][node-url]
+[![Express][expressjs]][expressjs-url]
+[![MongoDB][mongodb]][mongodb-url]
+[![Hashnode][hashnode]][hashnode-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 ### 1. What is #100Devs?
@@ -93,7 +86,6 @@ It's a online, free, 30 week bootcamp, meant to bring anybody from zero programm
 ### 2. When and where are classes hosted?
 
 Tuesdays & Thursdays, 6:30PM - 9:30PM Eastern Time. They are hosted live on Twitch
-
 
 ### 3. When are office hours?
 
@@ -129,7 +121,7 @@ If you want to gain the most of the course, you should attend class, do the assi
 
 You will be asked to check-in for each class by retweeting a tweet on [Leon's Twitter](https://twitter.com/leonnoel). This is how you take attendance.
 
-You should expect to spend 10+ hours per week, outside of class, for practice/homework/networking/etc. 
+You should expect to spend 10+ hours per week, outside of class, for practice/homework/networking/etc.
 
 The biggest factor in your success is you. Work hard, ask for help when you need it, give help to others when you can, and stay positive. Stay healty and do exercise.
 
@@ -163,7 +155,7 @@ Channel points are accumulated by watching the stream. They will be visible righ
 
 **House Hopper** can use channel points for reviews and interviews, and has their own private house channel in the discord. Those in House Hopper that would like to move to House Turing for the extra perks, please keep doing all of the obligations and as people move out of Turing, those in Hopper who are demonstrating dedication will be moved in.
 
-House Hamilton**** has the flexibility to follow along with the bootcamp without the same level of commitment as Turing and Hopper. Hamilton can use their channel points for Turing benefits
+House Hamilton\*\*\*\* has the flexibility to follow along with the bootcamp without the same level of commitment as Turing and Hopper. Hamilton can use their channel points for Turing benefits
 
 ### 11. What happens if you miss a stream, or want to catch up on a the old ones?
 
@@ -175,8 +167,8 @@ Please use the appropriate help channel on Discord. If you have something that c
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- YOUTUBE ROADMAP -->
+
 ## Roadmap
 
 - [FULL PLAYLIST](https://youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S)
@@ -196,9 +188,9 @@ Please use the appropriate help channel on Discord. If you have something that c
 - [Class 14: JavaScript Functions For Beginners](https://youtu.be/cBWUvTZPeKw)
 - [Class 15: How to start freelancing](https://youtu.be/68Li7ukgDKg)
 - [Class 16: Learn JavaScript Loops](https://youtu.be/av6iPI_zJTU)
-- [SUPER REVIEW: Frontend Crash Course](https://youtu.be/AkXLGS57MS4)
 - [Class 17: Networking Night](#)
 - [Class 18: Project Night](#)
+- [SUPER REVIEW: Frontend Crash Course](https://youtu.be/AkXLGS57MS4)
 - [Class 19: Learn JavaScript Arrays](https://youtu.be/YUQUGtUbwMY)
 - [Class 20: Practice JavaScript Arrays](https://youtu.be/cL0qP6kM_1U)
 - [Class 21: Learn JavaScript Objects](https://youtu.be/75TQEQ6wxAE)
@@ -231,21 +223,19 @@ Please use the appropriate help channel on Discord. If you have something that c
 - [Class 49 - 52: Easily Add Authentication To Your Node Apps! Email Logins with Passpor](https://youtu.be/z5UgtXOxEEk)
 - [Class 53 - 55: Let's Build A Social Network with Node, Express, MongoDB, & Cloudinary](https://youtu.be/xsKGlEemTAo)
 
-
 See the [open issues](https://github.com/Joshhortt/100DevsBootcamp/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Thanks for checking out the 100 Devs Sofware Engineuring Bootcamp Repo.
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. 
+Contributions are what make the open source community such an amazing place to learn, inspire, and create.
 Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this README better, please fork the repo and create a pull request. 
+If you have a suggestion that would make this README better, please fork the repo and create a pull request.
 You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
@@ -255,24 +245,21 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
-José Horta - [@josh_hortt](https://twitter.com/josh_hortt) 
+José Horta - [@josh_hortt](https://twitter.com/josh_hortt)
 
 My E-mail - [joshhortt@yahoo.com](joshhortt@yahoo.com)
 
@@ -280,32 +267,30 @@ My E-mail - [joshhortt@yahoo.com](joshhortt@yahoo.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [Markdown Guide](https://www.markdownguide.org/basic-syntax/#reference-style-links)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [Awesome Badges for README's](https://dev.to/envoy_/150-badges-for-github-pnk)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-* [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
-* [Another #100Devs follow-along Site for the Catchup Crew](https://100devsfollowalong.netlify.app/)
+- [Choose an Open Source License](https://choosealicense.com)
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax/#reference-style-links)
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+- [Malven's Grid Cheatsheet](https://grid.malven.co/)
+- [Img Shields](https://shields.io)
+- [Awesome Badges for README's](https://dev.to/envoy_/150-badges-for-github-pnk)
+- [GitHub Pages](https://pages.github.com)
+- [Font Awesome](https://fontawesome.com)
+- [React Icons](https://react-icons.github.io/react-icons/search)
+- [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
+- [Another #100Devs follow-along Site for the Catchup Crew](https://100devsfollowalong.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/Joshhortt/100DevsBootcamp.svg?style=for-the-badge
 [contributors-url]: https://github.com/Joshhortt/100DevsBootcamp/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Joshhortt/100DevsBootcamp.svg?style=for-the-badge
@@ -318,48 +303,26 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/Joshhortt/100DevsBootcamp/blob/master/LICENSE.txt
 [twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [twitter-url]: https://twitter.com/josh_hortt
-
 [product-screenshot]: images/screenshot.png
-
-[Markdown]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
-[Markdown-url]: https://www.markdownguide.org/
-
-[Html5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[Html-url]: https://html.com/html5/
-
-[Javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[markdown]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+[markdown-url]: https://www.markdownguide.org/
+[html5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[html-url]: https://html.com/html5/
+[javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [javascript-url]: https://www.javascript.com/
-
-[Css]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[Css-url]: https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS
-
-[Nodejs]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-[Node-url]: https://nodejs.org/
-
-[Reactjs]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-
-[Bootstrap]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-
-[Github]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[Github-url]: https://github.com/
-
-[Expressjs]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
-[Expressjs-url]: https://expressjs.com/
-
-[MongoDB]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-[Mongodb-url]: https://www.mongodb.com
-
-[Hashnode]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
-[Hashnode-url]: https://hashnode.com/
-
-
-
-
-
-
-
-
-
-
+[css]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[css-url]: https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS
+[nodejs]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[node-url]: https://nodejs.org/
+[reactjs]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://reactjs.org/
+[bootstrap]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[bootstrap-url]: https://getbootstrap.com
+[github]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[github-url]: https://github.com/
+[expressjs]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+[expressjs-url]: https://expressjs.com/
+[mongodb]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[mongodb-url]: https://www.mongodb.com
+[hashnode]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
+[hashnode-url]: https://hashnode.com/
