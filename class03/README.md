@@ -24,8 +24,6 @@ Jan 18, 2022 (official Discord start date)
 - [Upload Screenshot](https://imgbb.com/)
 - [Submit Link](https://docs.google.com/forms/d/e/1FAIpQLScFLlI8YxOuqhQDtLdB_2KbMBTFx9kJmy9D42zbOkuebhFZxw/viewform)
 
-- **For Today's Homework**
-
 #### Due Thursday - (Jan. 20th)
 
 - Read: [Shayhowe](https://learn.shayhowe.com/html-css/)
