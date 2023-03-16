@@ -1,0 +1,23 @@
+h1 {
+  color: purple;
+}
+
+section > h2 {
+  color: blue;
+}
+
+article > h2 {
+  color: red;
+}
+
+section article h2 {
+  color: green;
+}
+
+#poop {
+  background: brown;
+}
+
+.rainbow {
+  background: repeating-radial-gradient(#f69d3c, #3f87a6 1px);
+}
