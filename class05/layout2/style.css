@@ -1,0 +1,33 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background: lightgrey;
+}
+
+header,
+footer {
+  height: 130px;
+  border: 1px solid grey;
+  clear: both;
+}
+
+.section1 {
+  height: 200px;
+  border: 1px solid grey;
+}
+
+.section2,
+.section3 {
+  border: 1px solid gray;
+  height: 300px;
+}
+
+.section2 {
+  width: 40%;
+  float: left;
+}

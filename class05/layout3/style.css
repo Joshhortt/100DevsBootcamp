@@ -1,0 +1,42 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background: lightgoldenrodyellow;
+}
+
+header,
+footer {
+  height: 130px;
+  border: 1px solid lightgrey;
+  clear: both;
+}
+
+div {
+  height: 500px;
+  border: 1px solid lightgrey;
+  float: left;
+}
+.w-1-5 {
+  width: 20%;
+}
+
+.w-2-5 {
+  width: 40%;
+}
+div {
+  height: 500px;
+  border: 1px solid lightgrey;
+  float: left;
+}
+.w-1-5 {
+  width: 20%;
+}
+
+.w-2-5 {
+  width: 40%;
+}
