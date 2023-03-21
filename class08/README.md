@@ -13,7 +13,7 @@ Feb 3, 2022 (official Discord start date)
 - [Youtube Lesson](https://youtu.be/PWVRSXQxsXc)
 - [Slides](https://slides.com/leonnoel/100devs2-css-responsive-review)
 
-> If you Want to join a smaller study community on Discord. <br /> Please fill out this [NEW interest form](https://forms.gle/KuTBcouadvaJtUVz6) (we'll explain in more detail during class):
+> If you Want to join a smaller study community on Discord. Please fill out this [NEW interest form](https://forms.gle/KuTBcouadvaJtUVz6) (we'll explain in more detail during class):
 
 ### Homework 08
 
