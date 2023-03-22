@@ -1,0 +1,9 @@
+I haven´t included the following Images in loyout-fotos Folder
+
+bbc-image.png
+techcrunch.png
+khanacademy.png
+
+These can be found in class 08 materials.
+
+Thanks
