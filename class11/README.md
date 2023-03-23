@@ -33,9 +33,7 @@ Feb 15, 2022 (official Discord start date)
 - Watch: [Traversy Media / Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc)
 - Practice: [Mastery Games](https://mastery.games/flexboxzombies/)
 
-<hr />
-
-**Keep Reading & Practicing**
+#### Keep Reading & Practicing
 
 - Do: [Practice Typing](https://www.keybr.com/)
 
