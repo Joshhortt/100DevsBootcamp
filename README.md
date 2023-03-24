@@ -259,7 +259,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-José Horta - [@josh_hortt](https://twitter.com/josh_hortt)
+José Calvário - [@josh_hortt](https://twitter.com/josh_hortt)
 
 My E-mail - [joshhortt@yahoo.com](joshhortt@yahoo.com)
 
