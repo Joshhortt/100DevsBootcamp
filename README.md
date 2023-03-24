@@ -263,6 +263,8 @@ José Calvário - [@josh_hortt](https://twitter.com/josh_hortt)
 
 My E-mail - [joshhortt@yahoo.com](joshhortt@yahoo.com)
 
+My second E-mail - [josecalvario@gmail.com](josecalvario@gmail.com)
+
 100 Devs Bootcamp Link: [100 Devs Bootcamp](https://github.com/Joshhortt/100DevsBootcamp)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
