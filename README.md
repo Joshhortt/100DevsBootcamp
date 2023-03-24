@@ -97,7 +97,7 @@ Sunday, 1:00PM Eastern Time. Office hours will normally go for 2-3 hours and are
 
 If you would like to join, please first complete these [Signup taks](https://gleam.io/e6AV3/100devs-signup).
 
-Then fill out this form: https://forms.gle/A4fiw6rM4ukX1eJG7
+Then fill out this form: <https://forms.gle/A4fiw6rM4ukX1eJG7>
 
 And be sure to join the [Discord channel](https://leonnoel.com/discord), where all the course materials will be posted and you will find thausends of community memebers ready to help you on your engineering journey.
 
