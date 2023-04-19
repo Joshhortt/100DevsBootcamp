@@ -38,3 +38,5 @@ May 10, 2022 (official Discord start date)
 - Do: [Practice Typing](https://www.keybr.com/)
 
 **Remember** to Active Recall and use [Anki](https://apps.ankiweb.net/)
+
+> No class materials & solutions files to share for this class!
