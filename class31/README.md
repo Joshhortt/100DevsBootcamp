@@ -37,7 +37,7 @@ May 03, 2022 (official Discord start date)
 
 - Do: Codewars Array Ladder (search array problems) - 8kyu, 7kyu, 6kyu, 7kyu, 8kyu
 
-#### Keep Reading & Practicing\*\*
+#### Keep Reading & Practicing
 
 - Do: [Practice Typing](https://www.keybr.com/)
 
