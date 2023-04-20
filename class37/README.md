@@ -1,21 +1,21 @@
-# Class 36 - JavaScript Event Loop For Beginners
+# Class 37 - No Express! Fullstack App Just Node
 
-![36.JavaScript Event Loop For Beginners](https://cdn.hashnode.com/res/hashnode/image/upload/v1676714280783/zMJF_ZAHt.png?auto=compress)
+![37.No Express! Fullstack App Just Node](https://cdn.hashnode.com/res/hashnode/image/upload/v1676715448101/cYmUIV4TV.png?auto=compress)
 
-May 24, 2022 (official Discord start date)
-
-> Come dive deeper into the backend! We are tackling the Event Loop, Stacks, Queues, and a bunch of other important topics! Then we are getting some practice in together! Let's keep this fullstack train moving!
+> Let's review the Node Code from last class and then build our first Fullstack App together! Quick stream and then Project Night!
 
 ## Class Links
 
-- Visit: [Discord Lesson](https://discord.com/channels/735923219315425401/738891289071714388/978772278944866334) (Include Download Resources & Community)
-- Watch: [Youtube Lesson](https://youtu.be/nv5SequVETI)
-- Tweet: [Tweet before you start this Lesson](https://twitter.com/leonnoel/status/1529213324633657345)
-- Read: [Slides](https://slides.com/leonnoel/100devs2-fancy-js-terms-and-node)
+May 26, 2022 (official Discord start date)
+
+- Visit: [Discord Lesson](https://discord.com/channels/735923219315425401/738891289071714388/979497037517168640) (Include Download Resources & Community)
+- Watch: [Youtube Lesson](https://youtu.be/6rsA_RCe5YM)
+- **No Checkin**
+- **No Slides**
 - Link: [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)
 - Link: [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)
 
-### Homework 36
+### Homework 37
 
 **Submit Your Homework:**
 
@@ -35,7 +35,7 @@ May 24, 2022 (official Discord start date)
 - Watch: [Jake Archibald / on the web browser event loop...](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 - Do: [Zell Liew / Building a Simple CRUD app with Node, Express, & MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
 
-#### Keep Reading & Practicing\*\*
+#### Keep Reading & Practicing
 
 - Do: [Practice Typing](https://www.keybr.com/)
 
