@@ -1,21 +1,12 @@
----
-title: Class 44 - Build Full-stack Apps with Javascript. Easy to Understand (part 1)
-tags:
-  - express
-  - node
-  - ejs
-  - crud
-  - mongodb
-summary: "Build Full-stack Apps with Javascript. Easy to Understand (p1)"
----
+# Class 44 - Build Full-stack Apps with Javascript. Easy to Understand (part 1)
 
 ![44.Build Fullstack Apps with Javascript. Easy to Understand (p1)](https://cdn.hashnode.com/res/hashnode/image/upload/v1676723386751/gpQ7FYRTo.png?auto=compress)
-
-Aug 09, 2022 (official Discord start date)
 
 > Tonight we are diving straight into the CRUD. Just some quick celebrations and right into reviewing CRUD in detail!
 
 ## Class Links
+
+Aug 09, 2022 (official Discord start date)
 
 Aug 09, 2022 (official Discord start date)
 
