@@ -1,4 +1,4 @@
-# Class 49 - Easily Add Authentication To Your Node Apps. Email Logins with Passport
+# Class 49 - Easily Add Authentication To Your Node Apps. Email Logins with Passport (part 1)
 
 ![49.Easily Add Authentication To Your Node Apps. Email Logins with Passport](https://cdn.hashnode.com/res/hashnode/image/upload/v1676729205568/vchIL0VjB.png?auto=compress)
 
