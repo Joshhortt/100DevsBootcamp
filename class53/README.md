@@ -1,4 +1,4 @@
-# Class 53 - Let's Build A Social Network with Node, Express, MongoDB, & Cloudinary
+# Class 53 - Let's Build A Social Network with Node, Express, MongoDB, & Cloudinary (part 1)
 
 ![53.Let's Build A Social Network with Node, Express, MongoDB, & Cloudinary](https://cdn.hashnode.com/res/hashnode/image/upload/v1676743057748/FGzCtflvW.png?auto=compress)
 
