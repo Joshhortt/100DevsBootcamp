@@ -1,4 +1,4 @@
-# SUPER REVIEW - Frontend Crash Course (between Class 18 & Class 19
+# SUPER REVIEW - Frontend Crash Course (between Class 18 & Class 19)
 
 ![SUPER REVIEW | Frontend Crash Course](https://cdn.hashnode.com/res/hashnode/image/upload/v1676633461608/PsxLWLikm.png?auto=compress)
 
